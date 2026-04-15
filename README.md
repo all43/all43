@@ -2,7 +2,9 @@
 
 Full-stack engineer based in Berlin, open to fully remote positions across Germany or hybrid in Berlin.
 
-I build things that interest me — cross-platform apps, fintech concepts, language tools, games. Usually offline-first, often data-heavy, lately with a lot of LLM pipeline work. Currently learning German full-time and building apps in the process. [Lexiklar](#lexiklar) is the main thing that came out of it so far.
+I build things that interest me — cross-platform apps, fintech concepts, language tools, games. Usually offline-first, often data-heavy, lately with a lot of LLM pipeline work. Currently learning German full-time and building apps in the process.
+
+[Lexiklar](#lexiklar) is the main thing that came out of it so far.
 
 ---
 
@@ -16,7 +18,9 @@ Built because every German learner needs 3–4 different apps to cover translati
 The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump — translating 25,000+ entries and 87,500+ sentences, with a custom quality-control system that reviewed ~16,000 examples for translation errors.
 
 **Stack:** Vue 3 · TypeScript · SQLite WASM · Capacitor · PWA
+
 **Platform:** iOS · Android · Web (PWA)
+
 [Demo](https://lexiklar.app) · [GitHub](https://github.com/all43/lexiklar)
 
 ---
@@ -29,7 +33,9 @@ The core insight: every phone already shares the same time (NTP). Each device in
 Started in 2022 as a protest tool for the early days of the Russia-Ukraine war. Rebranded to Litwave after the original purpose became too dangerous to pursue publicly.
 
 **Stack:** Angular · TypeScript · Ionic · Capacitor · RxJS · PWA
+
 **Platform:** iOS · Android · Web (PWA)
+
 [iOS beta](https://testflight.apple.com/join/mncgCJaP) · [Web companion](https://litwave.app) · [GitHub](https://github.com/all43/litwave)
 
 ---
@@ -40,6 +46,7 @@ Paint your neighborhood on a real map — geo-anchored collaborative pixel art, 
 Think r/place meets Google Maps. No accounts, no install — open the site, pick a color, paint. All pixels expire after 24 hours so the canvas resets daily without any moderation. The backend uses viewport-scoped WebSocket broadcasts (updates only reach clients whose viewport contains the painted tile) and a Mercator-corrected grid that keeps tiles square at any latitude.
 
 **Stack:** Vanilla JS · Node.js · WebSockets · Redis · Leaflet.js
+
 [Demo](https://pixhood.art) · [GitHub](https://github.com/all43/pixhood)
 
 ---
@@ -52,6 +59,7 @@ Instead of a salary deposited once a month or rent debited on the 1st, every fin
 No backend, no accounts. Built to explore a fintech paradigm shift, not a product roadmap.
 
 **Stack:** Vue 3 · TypeScript · Tailwind CSS · Pinia
+
 [Demo](https://demo.cashless.stream) · [GitHub](https://github.com/all43/cashless-stream)
 
 ---
@@ -64,6 +72,7 @@ An experiment in two ideas: German learning as an escape room quest, and multi-f
 A single Python game engine drives a local terminal, a Vue SPA, and a Godot 3D client, all sharing the same sessions, state, and SQLite database. Content is a mix of hand-authored YAML rooms and procedurally generated ones (spatial prepositions, city navigation, document forensics). Wrong answers raise NPC suspicion with narrative feedback; blown cover triggers a mastery-targeted cooldown before re-entry.
 
 **Stack:** Python · Vue 3 · Godot 4 · TypeScript · SQLite
+
 [Live (early alpha, rough)](https://sprachmeister.pages.dev/) · [GitHub](https://github.com/all43/sprachmeister)
 
 ---
@@ -81,4 +90,5 @@ A single Python game engine drives a local terminal, a Vue SPA, and a Godot 3D c
 
 - Email: mail@malikov.dev
 - Website: [malikov.dev](https://malikov.dev)
-- GitHub: [github.com/all43](https://github.com/all43)
+- LinkedIn: [in/evgenii-malikov-6782333](https://www.linkedin.com/in/evgenii-malikov-6782333/)
+
