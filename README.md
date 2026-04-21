@@ -21,7 +21,7 @@ The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump �
 
 **Platform:** iOS · Android · Web (PWA)
 
-[Demo](https://lexiklar.app) · [GitHub](https://github.com/all43/lexiklar)
+[PWA](https://lexiklar.app) · [App Store](https://apps.apple.com/de/app/lexiklar/id6761269667) · [GitHub](https://github.com/all43/lexiklar)
 
 ---
 
@@ -47,7 +47,7 @@ Think r/place meets Google Maps. No accounts, no install — open the site, pick
 
 **Stack:** Vanilla JS · Node.js · WebSockets · Redis · Leaflet.js · PWA
 
-[Demo](https://pixhood.art) · [GitHub](https://github.com/all43/pixhood)
+[PWA](https://pixhood.art) · [GitHub](https://github.com/all43/pixhood)
 
 ---
 
