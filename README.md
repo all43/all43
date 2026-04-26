@@ -26,6 +26,9 @@ The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump �
 ---
 
 ### Pixhood
+
+<img src="https://raw.githubusercontent.com/all43/pixhood/main/docs/screenshots/home_mobile.png" width="260" align="right">
+
 Paint your neighborhood on a real map — geo-anchored collaborative pixel art, live in the browser.
 
 Think r/place meets Google Maps. No accounts, no install — open the site, pick a color, paint. All pixels expire after 24 hours so the canvas resets daily without any moderation. The backend uses viewport-scoped WebSocket broadcasts (updates only reach clients whose viewport contains the painted tile) and a Mercator-corrected grid that keeps tiles square at any latitude.
@@ -37,6 +40,9 @@ Think r/place meets Google Maps. No accounts, no install — open the site, pick
 ---
 
 ### Litwave
+
+<img src="https://raw.githubusercontent.com/all43/litwave/main/store/ios/screenshots/01_home.png" width="260" align="right">
+
 Synchronized flashlight and screen flash across any number of phones — no server, no internet, no Bluetooth.
 
 The core insight: every phone already shares the same time (NTP). Each device independently computes its position in the flash sequence using epoch-modulo alignment — no messages are ever sent between devices. Works for 2 phones or 20,000.
