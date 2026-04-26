@@ -25,7 +25,7 @@ The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump �
 **Platform:** iOS · Android · Web (PWA)
 
 [PWA](https://lexiklar.app) · [App Store](https://apps.apple.com/de/app/lexiklar/id6761269667) · [GitHub](https://github.com/all43/lexiklar)
-
+<br clear="all">
 ---
 
 ### Pixhood
@@ -39,7 +39,7 @@ Think r/place meets Google Maps. No accounts, no install — open the site, pick
 **Stack:** Vanilla JS · Node.js · WebSockets · Redis · Leaflet.js · PWA
 
 [PWA](https://pixhood.art) · [GitHub](https://github.com/all43/pixhood)
-
+<br clear="all">
 ---
 
 ### Litwave
@@ -57,7 +57,7 @@ Started in 2022 as a protest tool for the early days of the Russia-Ukraine war. 
 **Platform:** iOS · Android · Web (PWA)
 
 [iOS beta](https://testflight.apple.com/join/mncgCJaP) · [Web companion](https://litwave.app) · [GitHub](https://github.com/all43/litwave)
-
+<br clear="all">
 ---
 
 ### cashless.stream
