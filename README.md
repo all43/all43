@@ -11,6 +11,9 @@ I build things that interest me — cross-platform apps, fintech concepts, langu
 ## Projects
 
 ### Lexiklar
+
+<img src="https://raw.githubusercontent.com/all43/lexiklar/main/store/ios/screenshots/iphone/02-noun-declension.png" width="260" align="right">
+
 Offline German dictionary for learners up to B2 level — no ads, no account, works without internet.
 
 Built because every German learner needs 3–4 different apps to cover translations, grammar, and examples. Lexiklar puts it all in one place with grammar depth I couldn't find elsewhere: full declension tables, conjugation paradigms, gender rules explained inline, and 87,500 example sentences where tapping any word jumps to its dictionary entry.
