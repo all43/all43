@@ -62,7 +62,7 @@ Started in 2022 as a protest tool for the early days of the Russia-Ukraine war. 
 
 **Status:** Stable — no new features planned
 
-[iOS beta](https://testflight.apple.com/join/mncgCJaP) · [Web companion](https://litwave.app) · [GitHub](https://github.com/all43/litwave)
+[App Store](https://apps.apple.com/app/litwave/id6762067281) · [Web companion](https://litwave.app) · [GitHub](https://github.com/all43/litwave)
 <br clear="all">
 ---
 
