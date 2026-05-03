@@ -24,6 +24,8 @@ The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump �
 
 **Platform:** iOS · Android · Web (PWA)
 
+**Status:** Maintained — fixes based on user feedback
+
 [PWA](https://lexiklar.app) · [App Store](https://apps.apple.com/de/app/lexiklar/id6761269667) · [GitHub](https://github.com/all43/lexiklar)
 <br clear="all">
 ---
@@ -37,6 +39,8 @@ Paint your neighborhood on a real map — geo-anchored collaborative pixel art, 
 Think r/place meets Google Maps. No accounts, no install — open the site, pick a color, paint. All pixels expire after 24 hours so the canvas resets daily without any moderation. The backend uses viewport-scoped WebSocket broadcasts (updates only reach clients whose viewport contains the painted tile) and a Mercator-corrected grid that keeps tiles square at any latitude.
 
 **Stack:** Vanilla JS · Node.js · WebSockets · Redis · Leaflet.js · PWA
+
+**Status:** Stable — no new features planned
 
 [PWA](https://pixhood.art) · [GitHub](https://github.com/all43/pixhood)
 <br clear="all">
@@ -55,6 +59,8 @@ Started in 2022 as a protest tool for the early days of the Russia-Ukraine war. 
 **Stack:** Angular · TypeScript · Ionic · Capacitor · RxJS · PWA
 
 **Platform:** iOS · Android · Web (PWA)
+
+**Status:** Stable — no new features planned
 
 [iOS beta](https://testflight.apple.com/join/mncgCJaP) · [Web companion](https://litwave.app) · [GitHub](https://github.com/all43/litwave)
 <br clear="all">
