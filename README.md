@@ -36,7 +36,7 @@ The backend is an LLM pipeline that processed a 2.8 GB German Wiktionary dump �
 
 Paint your neighborhood on a real map — geo-anchored collaborative pixel art, live in the browser.
 
-Think r/place meets Google Maps. No accounts, no install — open the site, pick a color, paint. All pixels expire after 24 hours so the canvas resets daily without any moderation. The backend uses viewport-scoped WebSocket broadcasts (updates only reach clients whose viewport contains the painted tile) and a Mercator-corrected grid that keeps tiles square at any latitude.
+Think r/place meets Google Maps. No accounts, no install — open the site, pick a color, paint. All pixels expire after 24 hours so the canvas resets daily without any moderation. The backend uses viewport-scoped WebSocket broadcasts (updates only reach clients whose viewport contains the painted tile) and a Mercator-corrected grid that keeps tiles square at any latitude. Also supports private Spaces — isolated canvases shareable via link, with admin-managed protected regions.
 
 **Stack:** Vanilla JS · Node.js · WebSockets · Redis · Leaflet.js · PWA
 
